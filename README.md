@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Basic Website With Nginx](https://oroszbalint.hu/posts/basic-website-with-nginx/)
+- [How to manage dotfiles](https://oroszbalint.hu/posts/how-to-manage-dotfiles/)
+- [Arch Install](https://oroszbalint.hu/posts/arch-install/)
 <!-- BLOG-POST-LIST:END -->
