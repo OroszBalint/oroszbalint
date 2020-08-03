@@ -15,7 +15,7 @@
 - <img align="left" alt="Vue" width="26px" src="https://vuejs.org/images/logo.png" /> Vue
 - <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> Node.js
 - <img align="left" alt="Go" width="26px" src="https://juststickers.in/wp-content/uploads/2016/07/go-programming-language.png" /> Go
-- <img align="left" alt="Go" width="26px" src="https://hu.wikipedia.org/wiki/PHP#/media/F%C3%A1jl:PHP-logo.svg" /> PHP
+- <img align="left" alt="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /> PHP
 
 
 
