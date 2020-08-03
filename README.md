@@ -39,6 +39,7 @@
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png" />
 </div>
 
+<br />
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
