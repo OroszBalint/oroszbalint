@@ -25,6 +25,8 @@
 - <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> MySQL
 - <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> SQL
 - <img align="left" alt="Dynamodb" width="26px" src="https://miro.medium.com/max/220/1*lB3tOXodwC8E49jzI0MzHg.png" /> DynamoDB
+- <img align="left" alt="Dynamodb" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" /> PostgreSQL
+
 
 ## Tools:
 
