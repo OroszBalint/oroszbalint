@@ -2,7 +2,7 @@
 
 
 ## Markdown languages:
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][https://hu.wikipedia.org/wiki/HTML]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
 
 
 
@@ -36,6 +36,7 @@
 - [Arch Install](https://oroszbalint.hu/posts/arch-install/)
 <!-- BLOG-POST-LIST:END -->
 
+[HTML]: https://hu.wikipedia.org/wiki/HTML
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
