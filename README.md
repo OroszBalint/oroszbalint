@@ -38,8 +38,7 @@
 - Docker + Docker swarm
 - Nginx
 - Visual Studio Code
-- Git
-- Github
+- Git, Github, Gitlab, CodeCommit
 - NeoVim
 - Terminal (sh/bash/zsh)
 
