@@ -1,7 +1,7 @@
 ## Hi there I'm Orosz Bálint, a self taught web developer👋
 
 
-## Markdown languages:
+## <img align="left" alt="Sass" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" /> Markdown languages:
 
 
 - <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML5
@@ -20,7 +20,7 @@
 
 
 
-##  Database languages:
+## <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> Database languages:
 
 - <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> MySQL
 - <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> SQL
