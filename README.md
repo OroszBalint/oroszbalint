@@ -1,12 +1,9 @@
 ## Hi there I'm Orosz Bálint, a self taught web developer👋
 
-
 ## 📝 Markdown languages:
 
-
 - HTML5
-- CSS3
-- Sass
+- CSS3, Sass
 - Markdown
 - Latex
 
@@ -23,8 +20,7 @@
 - Node.js
 - Laravel
 
-
-## 📦 Database languages:
+## 📦 Databases:
 
 - MySQL
 - SQL
