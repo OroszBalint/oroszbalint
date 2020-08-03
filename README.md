@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Orosz Bálint, a self taught web developer👋
 
 
 ## Markdown languages:
