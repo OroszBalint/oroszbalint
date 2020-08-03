@@ -14,6 +14,9 @@
 - <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> Javascript
 - <img align="left" alt="Vue" width="26px" src="https://vuejs.org/images/logo.png" /> Vue
 - <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> Node.js
+- <img align="left" alt="Go" width="26px" src="https://blog.golang.org/lib/godoc/images/go-logo-blue.svg" /> Go
+
+
 
 ## Database languages:
 
