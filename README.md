@@ -17,7 +17,7 @@
 - <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> Node.js
 - <img align="left" alt="Go" width="26px" src="https://juststickers.in/wp-content/uploads/2016/07/go-programming-language.png" /> Go
 - <img align="left" alt="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /> PHP
-- <img align="left" alt="Shell" width="26px" src="https://d33wubrfki0l68.cloudfront.net/a49c5f63d431650c696cfd10cb70c880726281df/c9f07/img/logo.png" /> Shell/Bash
+- <img align="left" alt="Shell" width="22px" src="https://d33wubrfki0l68.cloudfront.net/a49c5f63d431650c696cfd10cb70c880726281df/c9f07/img/logo.png" /> Shell/Bash
 
 
 
