@@ -26,7 +26,7 @@
 - <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> Visual Studio Code
 - <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> Git
 - <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> Github
-- <img align="left" alt="Vim" width="30px" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png" /> NeoVim
+- <img align="left" alt="Vim" width="30px" src="https://camo.githubusercontent.com/45259b5d1b7260a3224f3fe4f885e5ce95a134ed/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f3434353435392f323334323637342f61306635393035362d613466642d313165332d396232622d6232633666643138613664372e706e67" /> NeoVim
 - <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> Terminal (sh/bash/zsh)
 
 ## 📕 Latest Blog Posts
