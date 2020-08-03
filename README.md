@@ -10,7 +10,7 @@
 - <img align="left" alt="Sass" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" /> Markdown
 - <img align="left" alt="Latex" width="26px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/latex_logo_icon_145115.png" /> Latex
 
-## Programming languages:
+## 💻 Programming languages:
 
 - <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> Javascript
 - <img align="left" alt="Vue" width="26px" src="https://vuejs.org/images/logo.png" /> Vue
@@ -20,7 +20,7 @@
 
 
 
-## Database languages:
+##  Database languages:
 
 - <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> MySQL
 - <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> SQL
@@ -28,7 +28,7 @@
 - <img align="left" alt="Dynamodb" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" /> PostgreSQL
 
 
-## Tools:
+##  Tools:
 
 - <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> Visual Studio Code
 - <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> Git
