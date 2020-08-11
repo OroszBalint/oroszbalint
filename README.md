@@ -40,10 +40,10 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Change to Lineage Os now](https://oroszbalint.hu/posts/lineage-os/)
-- [Basic Website With Nginx](https://oroszbalint.hu/posts/basic-website-with-nginx/)
-- [How to manage dotfiles](https://oroszbalint.hu/posts/how-to-manage-dotfiles/)
-- [Arch Install](https://oroszbalint.hu/posts/arch-install/)
+- [Change to LineageOS now](https://oroszbalint.hu/post/lineage-os/)
+- [Basic Website With Nginx](https://oroszbalint.hu/post/basic-website-with-nginx/)
+- [How to manage dotfiles](https://oroszbalint.hu/post/how-to-manage-dotfiles/)
+- [Arch Install](https://oroszbalint.hu/post/arch-install/)
 <!-- BLOG-POST-LIST:END -->
 
 
