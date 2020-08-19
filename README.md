@@ -1,42 +1,28 @@
 ## Hi there I'm Orosz Bálint, a self taught web developer👋
 
-## 📝 Markdown languages:
-
-- HTML5
-- CSS3, Sass
-- Markdown
-- Latex
-
 ## 💻 Programming languages:
 
-- Go
-- PHP
-- Shell/Bash
-- Javascript
+PHP, Laravel(fw), Javascript, Vue(fw), Shell/Bash
 
-## 💻 Frameworks:
+## 📝 Style sheet languages:
 
-- Vue
-- Node.js
-- Laravel
+Bootstrap, CSS, SCSS, Tailwind
+
+## ⚙️ Devops:
+
+Linux, AWS, Serverless, Lambda functions, DigitalOcean, DNS managment, Docker, Docker swarm, CI/CD, Certbot, Getssl, Nginx, Grafana, Prometheus
 
 ## 📦 Databases:
 
-- MySQL
-- SQL
-- DynamoDB
-- PostgreSQL
+Sql, MySql, PostgreSql, NoSql, DynamoDB
 
-## ⚙️ Tools:
+## 📝 Markdown languages & others:
 
-- AWS, DigitalOcean, Vultr
-- Jira, Trello
-- Docker + Docker swarm
-- Nginx
-- Visual Studio Code
-- Git, Github, Gitlab, CodeCommit
-- NeoVim
-- Terminal (sh/bash/zsh)
+Git, HTML5, Json, Latex, Markdown, Regex, Toml, Yaml
+
+## 💻 Project managment:
+
+Asana, Jira, Trello
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
